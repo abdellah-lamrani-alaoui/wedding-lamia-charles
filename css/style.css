@@ -1390,6 +1390,13 @@ h3 {
   font-family: "Petit Formal Script", cursive;
 }
 
+.map_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
 /* line 27, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_program.scss */
 .program_details_area .single_program .program_inner h3 {
   font-family: "Muli", sans-serif;

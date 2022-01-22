@@ -1396,6 +1396,9 @@ h3 {
   margin-right: auto;
   width: 100%;
 }
+.map_image:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
 
 /* line 27, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_program.scss */
 .program_details_area .single_program .program_inner h3 {
